@@ -210,7 +210,7 @@ indian_housing_prices/
 
 ## 👤 Author
 
-**Veeresh**
+**VEERESH PUJAR**
 - GitHub: [@veeresh0071](https://github.com/veeresh0071)
 
 ## 📄 License
