@@ -1,0 +1,27 @@
+ENGINEERED FEATURES:
+========================================
+
+- Value_Score
+- Price_Efficiency
+- Size_Value_Ratio
+- Price_per_BHK
+- Investment_Potential
+- Annual_Appreciation_Rate
+- Predicted_Price_5Y
+- Price_Gain_5Y
+- Price_Gain_Pct_5Y
+- Age_Category
+- Remaining_Life_Years
+- Depreciation_Factor
+- Floor_Position_Ratio
+- Floor_Category
+- Is_Top_Floor
+- Is_Ground_Floor
+- City_Price_Tier
+- State_Price_Tier
+- Location_Premium
+- City_Property_Count
+- City_Market_Size
+- Overall_Investment_Score
+- Risk_Score
+- Investment_Grade

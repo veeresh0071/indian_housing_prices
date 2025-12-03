@@ -1,0 +1,6 @@
+Feature,Impact,Observation
+Property Type,₹1.61L difference,Independent House is most expensive
+BHK,₹-0.48L increase (1→5 BHK),Linear positive relationship
+Parking Space,₹0.32L difference,With parking is higher
+Security,₹1.08L difference,With security is higher
+Size (Sq Ft),Correlation: -0.0025,Strong positive correlation
