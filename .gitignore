@@ -17,15 +17,13 @@ build/
 *.swp
 *.swo
 
-# Data files (large - excluded due to GitHub size limits)
-data/*.csv
-india_housing_prices.csv
+# Data files tracked by Git LFS
+# data/*.csv
+# india_housing_prices.csv
 
-# MLflow (large model artifacts)
-mlruns/
-
-# Model files (large - regenerate by running model_training.py)
-models/*.pkl
+# MLflow and models tracked by Git LFS
+# mlruns/
+# models/*.pkl
 
 # Jupyter
 .ipynb_checkpoints/
